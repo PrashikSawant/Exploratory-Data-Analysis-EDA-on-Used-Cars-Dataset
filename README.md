@@ -45,7 +45,7 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** on a data
 
 
 **🔗 Connect with Me:**
-- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/prashik-sawant-ba4610237/)
-- **GitHub:** [Your GitHub](https://github.com/PrashikSawant)
+- **LinkedIn:** [prashik_LinkedIn](https://www.linkedin.com/in/prashik-sawant-ba4610237/)
+- **GitHub:** [prashik_GitHub](https://github.com/PrashikSawant)
 - **Email:** prashiksawant47@gmail.com
 
