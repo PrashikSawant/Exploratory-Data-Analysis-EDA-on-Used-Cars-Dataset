@@ -1,11 +1,10 @@
-# abc
 # Exploratory Data Analysis (EDA) on Used Cars Dataset
 
 ## 📌 Project Overview
 This project focuses on performing **Exploratory Data Analysis (EDA)** on a dataset of used cars. The goal is to analyze trends, identify key insights, and clean the data for further modeling or decision-making.
 
 ## 📂 Dataset Information
-- The dataset contains information about **7,253 used cars**.
+- The dataset contains information about **used cars**.
 - Features include:
   - **Car Name**
   - **Location**
@@ -37,37 +36,16 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** on a data
 - **Impact of transmission type:** Automatic cars are generally priced higher than manual cars.
 - **Mileage vs. Price correlation:** Higher mileage vehicles tend to be priced lower.
 
-## 🛠️ How to Run the Notebook
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/EDA-Used-Cars.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd EDA-Used-Cars
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook EDA_Used_Cars.ipynb
-   ```
 
 ## 🚀 Future Improvements
 - Feature selection for predictive modeling.
 - Price prediction using machine learning algorithms.
-- Interactive visualizations using **Plotly** or **Dash**.
+- Interactive visualizations using **Power BI** or **Tableau**.
 - More detailed statistical analysis.
 
-## 📜 License
-This project is open-source and available under the **MIT License**.
-
----
 
 **🔗 Connect with Me:**
-- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub](https://github.com/yourusername)
-- **Email:** your.email@example.com
+- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/prashik-sawant-ba4610237/)
+- **GitHub:** [Your GitHub](https://github.com/PrashikSawant)
+- **Email:** prashiksawant47@gmail.com
 
