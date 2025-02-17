@@ -1,7 +1,7 @@
 # Exploratory Data Analysis (EDA) on Used Cars Dataset
 
 ## 📌 Project Overview
-This project focuses on performing **Exploratory Data Analysis (EDA)** on a dataset of used cars. The goal is to analyze trends, identify key insights, and clean the data for further modeling or decision-making.
+This is a guided project that focuses on performing **Exploratory Data Analysis (EDA)** on a dataset of used cars. The goal is to analyze trends, identify key insights, and clean the data for further modeling or decision-making.
 
 ## 📂 Dataset Information
 - The dataset contains information about **used cars**.
